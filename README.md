@@ -14,3 +14,9 @@ Wired circuit used for tests:
 
 Simulation for the FPGA part:
 ![uart_sim](uart_sim.png)
+
+
+
+
+https://user-images.githubusercontent.com/99823278/184111004-beee167d-8dd7-47f4-9762-7f7971648058.mp4
+
